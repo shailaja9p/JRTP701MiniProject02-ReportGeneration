@@ -1,0 +1,16 @@
+INSERT INTO JRTP_COURSE_DETAILS 
+    (course_name, location, course_category, faculty_name, fee, admin_name, admin_contact, training_mode, start_date, course_status, creation_date, updation_date, created_by, updated_by)
+VALUES
+    ('Advanced JavaScript', 'Boston', 'Web Development', 'Sarah Adams', 1300.0, 'Michael Clark', 7890123456, 'Online', '2024-07-05 10:00:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Data Structures & Algorithms', 'Austin', 'Computer Science', 'Ryan Taylor', 1400.0, 'Sophie Baker', 8901234567, 'In-Person', '2024-08-08 11:30:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Digital Marketing Essentials', 'Denver', 'Marketing', 'Jessica Wilson', 1200.0, 'Matthew Harris', 9012345678, 'Hybrid', '2024-07-15 09:00:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Project Management Fund', 'Houston', 'Project Management', 'Daniel Miller', 1500.0, 'Olivia Brown', 1234567890, 'In-Person', '2024-07-25 13:00:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Artificial Intelligence Basics', 'San Francisco', 'Artificial Intelligence', 'Grace Lee', 1600.0, 'Ethan White', 2345678901, 'Online', '2024-08-20 10:30:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Business Analytics', 'New York', 'Analytics', 'Lucas Martinez', 1400.0, 'Emily King', 3456789012, 'In-Person', '2024-08-02 12:00:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('UI/UX Design Fundamenta', 'Los Angeles', 'Design', 'Mia Thomas', 1300.0, 'Noah Garcia', 4567890123, 'Online', '2024-07-12 14:30:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Financial Accounting Basics', 'Chicago', 'Accounting', 'Liam Robinson', 1200.0, 'Aria Wilson', 5678901234, 'In-Person', '2024-08-18 09:30:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Python for Data Science', 'Chicago', 'Data Science', 'Alice Brown', 1400.0, 'David Green', 2345678901, 'Online', '2024-06-30 11:00:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Android App Development', 'Los Angeles', 'Mobile Development', 'Bob Smith', 1600.0, 'Sophia Lee', 3456789012, 'In-Person', '2024-07-10 09:30:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Machine Learning Basics', 'Seattle', 'Machine Learning', 'Charlie Davis', 1300.0, 'Emma White', 4567890123, 'Hybrid', '2024-08-05 13:45:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Cybersecurity Fundamentals', 'Washington DC', 'Cybersecurity', 'Olivia Johnson', 1500.0, 'James Wilson', 5678901234, 'Online', '2024-07-20 10:00:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin'),
+    ('Cloud Computing Essentials', 'San Diego', 'Cloud Computing', 'Ethan Martinez', 1700.0, 'Ava Moore', 6789012345, 'In-Person', '2024-08-12 14:15:00', 'Active', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'Admin', 'Admin');
